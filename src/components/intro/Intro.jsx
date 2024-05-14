@@ -6,7 +6,7 @@ const Intro = () => {
     <>
       <div className="flex flex-col md:flex-row bg-black justify-center items-center">
         <div>
-          <img src="./src/assets/intro.svg" alt="Introduction" />
+          <img src="./src/assets/lets_vote.svg" alt="Introduction" />
         </div>
         <div className=" w-full  text-white">
           <div className="flex flex-col justify-center items-center">
